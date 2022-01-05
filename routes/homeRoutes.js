@@ -1,0 +1,1 @@
+router.get("/chat", homeController.chat);
